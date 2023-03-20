@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JAVA J2EE SPRING , ANGULAR , WEB DESIGINING**
 
-- 👨‍💻 All of my projects are available at [https://flowcv.me/ketanmore-137](https://flowcv.me/ketanmore-137)
+
 
 - 📫 How to reach me **ketanmore1137@gmail.com**
 
